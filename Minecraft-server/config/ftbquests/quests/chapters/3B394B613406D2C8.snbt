@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: ""
+	group: ""
+	icon: "thermal:upgrade_augment_3"
+	id: "3B394B613406D2C8"
+	order_index: 14
+	quest_links: [ ]
+	quests: [ ]
+	title: "&9Thermal Loot Bag"
+}
